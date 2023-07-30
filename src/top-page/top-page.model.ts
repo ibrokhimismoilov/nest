@@ -21,7 +21,6 @@ export class TopPageModel {
     title: string;
     description: string;
   }[];
-
   seoText: string;
   tagsTitle: string;
   tags: string[];
